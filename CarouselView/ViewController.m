@@ -40,7 +40,7 @@
 }
 - (void)selectItemAtIndexPath:(NSString *)indexPath
 {
-    
+    NSLog(@"-------%@---------",indexPath);
 }
 
 
